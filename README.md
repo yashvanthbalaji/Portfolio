@@ -1,5 +1,5 @@
-# Ex01 Portfolio
-## Date: 30.01.2026
+# Ex Portfolio
+## Date: 13.01.2026
 
 ## AIM
 To create a Portfolio using HTML and CSS.
@@ -581,6 +581,7 @@ Upload to GitHub Pages for free hosting.
 
 </body>
 </html>
+
 ```
 
 
